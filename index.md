@@ -12,3 +12,9 @@
 msg = "Hello, World!"
 print(msg) # Output => Hello, World!
 ```
+#### Tasks To Do
+- [X] Add some headers
+- [X] Add a code example
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world! 
